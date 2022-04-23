@@ -1,6 +1,6 @@
 To use this library in your project
 
-Right-click on traget project -> Add external archives -> Select the .jar file 
+Right-click on target project -> Add external archives -> Select the .jar file 
 
 This project-exercise is about the GameOfCards named BlackJack
 
